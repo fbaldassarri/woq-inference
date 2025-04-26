@@ -1,0 +1,6 @@
+accelerate==1.6.0
+datasets==3.5.0
+pydantic==2.11.3
+transformers==4.51.3
+neural_compressor==3.3.1
+intel-extension-for-pytorch==2.7.0
