@@ -15,7 +15,7 @@ conda install -c conda-forge gcc
 
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 
-pip install -re requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Usage
